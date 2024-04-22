@@ -1337,4 +1337,11 @@ button {
   .subscribe-svg {
     margin-left: 0;
   }
+
+  /* ==========MODAL============= */
+
+  .modal {
+    width: 408px;
+    min-height: 584px;
+  }
 }
